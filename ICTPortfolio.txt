@@ -1,0 +1,100 @@
+<html>
+<head> <title> ICT E-Portfolio 1st Quarter </title> </head>
+<body style="background-color:#800000;color:white;">
+
+
+
+<h1 align="center" style="font-family:Lucida Console;"> <b> ICT E-Portfolio 1st Quarter </b> </h1>
+<hr noshade>
+<br>
+
+
+
+<h2 align="center"> <b> <u> A SHORT INTRODUCTION ABOUT ME </u> </b> </h2>
+<p align="center"> <img src=9FAITH1STQUARTER.png alt="Picture of Me & 9-Faith" style="width:500px;height:375px;">
+<br> <cite> Picture taken by Zyawn Gabayeron </cite>
+<br> <video width="750" height="400" controls>
+<source src="HeyBarbara_intro.mp4" type="video/mp4">
+<br> <cite> Picture taken by Zyawn Gabayeron </cite>
+</p>
+<p align="center" style="font-family:Verdana;"> My full name is Matthias Eros Y. Bautista, and I am 14 years old. In school, I'm called Matthias. But when I'm talking to someone very close to me like my family or best friends, they call me Eros. </p>
+<ul style="font-family:Verdana;"> I have many hobbies and interests, such as:
+<li> Playing instruments (bass guitar and electric guitar)
+<li> Playing volleyball
+<li> Reading books
+<li> Working out/staying active	
+</ul>
+<ul style="font-family:Verdana;"> Aside from hobbies, I also have things I like best in a specific category, aka favorites.
+<li> Favorite colors: maroon, which is the background color of this portfolio! :), and yellow
+<li> Favorite music genres: Pop rock and indie
+<li> Favorite number: 4, my birthday (June 4, 2010)
+</ul>
+<br>
+
+
+
+<h2 align="center"> <b> <u> 1ST QUARTER ACTIVITIES </u> </b> </h2>
+<br>
+<p style="font-family:Verdana;"> CODING ACTIVITY #1: <br>
+<img src=CustomerSurvey1.jpg alt="Coding Activity 1" style="width:300px;height:400px;">
+<img src=CustomerSurvey2.jpg alt="Coding Activity 1" style="width:300px;height:400px;">
+<img src=CustomerSurvey3.jpg alt="Coding Activity 1" style="width:300px;height:400px;">
+<br> <cite> Pictures taken by Jake Laurence S. Noronio </cite> <br>
+<p style="font-family:Verdana;"> CODING ACTIVITY #2: <br>
+<img src=Coding1.jpg alt="Coding Activity 2" style="width:300px;height:400px;">
+<img src=Coding2.jpg alt="Coding Activity 2" style="width:300px;height:400px;">
+<img src=Coding3.jpg alt="Coding Activity 2" style="width:300px;height:400px;">
+<img src=Coding4.jpg alt="Coding Activity 2" style="width:300px;height:400px;">
+<br> <cite> Pictures taken by Jake Laurence S. Noronio </cite>
+
+<h2 align="center"> <b> <u> ALL 1ST QUARTER ACTIVITIES IN TLE/ICT </u> </b> </h2>
+<p align="center"> <big> <b> NOTEPAD AND BROWSER OUTPUTS OF EACH LESSON </b> </big> </p>
+
+<h3> <b> LESSON 1: XHTML </b> </h3>
+<p style="font-family:Verdana;"> NOTEPAD: <br>
+<img src=ICTPORTFOLIO_XHTML_NOTEPAD.png alt="XHTML NOTEPAD CODE" style="width:600px;height:400px;">
+<br> BROWSER OUTPUT: <br>
+<img src=ICTPORTFOLIO_XHTML_BROWSEROUTPUT.png alt="XHTML BROWSER OUTPUT" style="width:600px;height:400px;">
+</p>
+
+<h3> <b> LESSON 2: TYPES OF LISTS </b> </h3>
+<p style="font-family:Verdana;"> NOTEPAD: <br>
+<img src=ICTPORTFOLIO_LISTS_NOTEPAD.png alt="LISTS NOTEPAD CODE" style="width:600px;height:400px;">
+<br> BROWSER OUTPUT: <br>
+<img src=ICTPORTFOLIO_LISTS_BROWSEROUTPUT.png alt="LISTS BROWSER OUTPUT" style="width:600px;height:400px;">
+</p>
+
+<h3> <b> LESSON 3 & 4: TABLES </b> </h3>
+<p style="font-family:Verdana;"> NOTEPAD: <br>
+<img src=ICTPORTFOLIO_TABLES_NOTEPAD1.png alt="TABLES NOTEPAD CODE" style="width:600px;height:400px;">
+<img src=ICTPORTFOLIO_TABLES_NOTEPAD2.png alt="TABLES NOTEPAD CODE" style="width:600px;height:400px;">
+<br> BROWSER OUTPUT: <br>
+<img src=ICTPORTFOLIO_TABLES_BROWSEROUTPUT.png alt="TABLES BROWSER OUTPUT" style="width:600px;height:400px;">
+</p>
+
+<h3> <b> LESSON 5: HYPERLINKS </b> </h3>
+<p style="font-family:Verdana;"> NOTEPAD: <br>
+<img src=ICTPORTFOLIO_HYPERLINKS_NOTEPAD.png alt="HYPERLINKS NOTEPAD CODE" style="width:600px;height:400px;">
+<br> BROWSER OUTPUT: <br>
+<img src=ICTPORTFOLIO_HYPERLINKS_BROWSEROUTPUT.png alt="HYPERLINKS BROWSER OUTPUT" style="width:600px;height:400px;">
+</p>
+
+<h3> <b> LESSON 6-8: FORMS </b> </h3>
+<p style="font-family:Verdana;"> NOTEPAD: <br>
+<img src=ICTPORTFOLIO_FORMS_NOTEPAD1.png alt="FORMS NOTEPAD CODE" style="width:600px;height:400px;">
+<img src=ICTPORTFOLIO_FORMS_NOTEPAD2.png alt="FORMS NOTEPAD CODE" style="width:600px;height:400px;">
+<br> BROWSER OUTPUT: <br>
+<img src=ICTPORTFOLIO_FORMS_BROWSEROUTPUT1.png alt="FORMS BROWSER OUTPUT" style="width:400px;height:600px;">
+<img src=ICTPORTFOLIO_FORMS_BROWSEROUTPUT2.png alt="FORMS BROWSER OUTPUT" style="width:400px;height:600px;">
+</p>
+<br>
+
+
+
+<h2 align="center"> <b> <u> REFLECTION ON THE FIRST QUARTER OF ICT </u> </b> </h2>
+<p align="center" style="font-family:Verdana;">
+This quarter has been a very big eye opener for me at this subject. Since even though the lessons seem very easy when first reading it, actually applying it is way harder. Although, through practice, I did get a bit used to it. As we go on to the next quarter, I think that my future self would say that this is much easier than what they're probably experiencing right now. So, I'm glad that this quarter isn't that difficult. It's just a bit overwhelming at first, but you get used to it once you apply these lessons in your browsers.
+</p>
+
+</body>
+</html>
